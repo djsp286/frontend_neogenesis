@@ -1,0 +1,20 @@
+
+body {
+  text-align: center;
+  
+}
+
+.pagination-wrapper {
+  overflow-x:auto;
+  
+}
+
+.pagination {
+  justify-content: center;
+  margin:5px;
+  
+}
+
+.data-slice {
+  margin-top: 15px;
+}
